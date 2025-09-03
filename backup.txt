@@ -28,7 +28,7 @@ int main()
     //{
     //    delete[] bob;
     //}
-    
+
 
     cout << "Please enter your text and I, in my infinite wisdom, will remove any duplicate characters\n";
 
