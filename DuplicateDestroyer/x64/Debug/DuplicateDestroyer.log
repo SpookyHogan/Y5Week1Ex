@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\hoga0129\source\repos\DuplicateDestroyer\DuplicateDestroyer\main.cpp(16,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DuplicateDestroyer.vcxproj -> C:\Users\hoga0129\source\repos\DuplicateDestroyer\x64\Debug\DuplicateDestroyer.exe
